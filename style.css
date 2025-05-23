@@ -7,7 +7,7 @@
 }
 
 .cuerpo{
-    background-image: url("practica1PWA/img/fondo.jpg") ;
+    background-image: url("/practica1PWA/img/fondo.jpg") ;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
